@@ -66,3 +66,7 @@ Income Input: Users can enter various sources of income including salary, invest
 Expenses Input: Users can detail their expenses across various categories such as housing, utilities, groceries, and entertainment.
 Net Savings Calculation: The app calculates and displays net savings or deficits based on the user inputs.
 Visual Representation: The budget distribution is displayed in a pie chart, showing the proportion of each expense category.
+
+URI
+EthicsDataCAD:https://huggingface.co/spaces/vjl004/EthicsDataCad
+Ethics Checklist:https://huggingface.co/spaces/vjl004/EthicsChecklist
