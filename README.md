@@ -1,5 +1,12 @@
 # CHEG472: Data Science In Chemical Engineering 🧪
 
+## Table of Contents
+- [Comparison of CSTR and PFR Volumes for First-Order Reactions](Comparison-of-CSTR-and-PFR-Volumes-for-First-Order-Reactions)
+- [McCabe-Thiele Distillation Column Calculator](#McCabe-Thiele-Distillation-Column-Calculator)
+- [Liquid-Liquid Extraction: Tie-Line Diagram](#Liquid-Liquid-Extraction:-Tie-Line-Diagram)
+- [Wastewater Treatment Dissolved Oxygen Profile Simulator](#Wastewater-Treatment-Dissolved-Oxygen-Profile-Simulator)
+- [Budgeting App](#Budgeting-App)
+
 # Comparison of CSTR and PFR Volumes for First-Order Reactions
 
 ## Overview
